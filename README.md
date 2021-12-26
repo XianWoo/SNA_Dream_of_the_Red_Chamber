@@ -8,13 +8,16 @@ In this project, you can use SNA tools to rank the characters in sequence, like 
 
 # File Description
 
-- 红楼梦社交网络
--- find.py
--- main.py
--- NameNode.csv
--- relationship.csv
--- renwu_total
--- 红楼梦.txt
+*main.py*
+- formulate document: relationship.csv.
+- calculate the frequency of characters in the story.
+- 
+*find.py*
+- depict the relationships in network.
+- depict the communities in network and print them.
+
+*NameNode.csv*
+- Record all the characters in the book.
 
 # Run
 1. Delete relationship.csv first. 
