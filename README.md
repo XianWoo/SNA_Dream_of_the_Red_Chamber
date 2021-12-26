@@ -8,13 +8,13 @@ In this project, you can use SNA tools to rank the characters in sequence, like 
 
 # File Description
 
--红楼梦社交网络
---find.py
---main.py
---NameNode.csv
---relationship.csv
---renwu_total
---红楼梦.txt
+- 红楼梦社交网络
+-- find.py
+-- main.py
+-- NameNode.csv
+-- relationship.csv
+-- renwu_total
+-- 红楼梦.txt
 
 # Run
 1. Delete relationship.csv first. 
