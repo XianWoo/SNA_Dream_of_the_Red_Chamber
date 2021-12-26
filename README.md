@@ -11,7 +11,7 @@ In this project, you can use SNA tools to rank the characters in sequence, like 
 *main.py*
 - formulate document: relationship.csv.
 - calculate the frequency of characters in the story.
-- 
+
 *find.py*
 - depict the relationships in network.
 - depict the communities in network and print them.
